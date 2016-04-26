@@ -1,0 +1,28 @@
+name: arcsten
+favicon: null
+layout_spectrum: 0.19787562009878457
+typography_spectrum: 0.659909037174657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9946475639007986
+  lightness: 0.6158327339217067
+  saturation: 0.6789451742079109
+  rhythmicContrast: 0.45437479577958584
+purpose: []
